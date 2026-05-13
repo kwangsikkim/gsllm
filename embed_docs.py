@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# 커밋확인3
 """
 embed_docs.py
 - 기본 경로/컬렉션명 유지
