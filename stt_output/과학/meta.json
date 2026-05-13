@@ -1,0 +1,18 @@
+{
+  "created_at": "2026-03-12T04:37:45.429767+00:00",
+  "model_name": "medium",
+  "device": "cuda",
+  "language": "ko",
+  "task": "transcribe",
+  "source_audio": "/home/siwasoft/gsllm/preprocess_output/과학/과학_preprocessed.wav",
+  "vad_applied": false,
+  "duration_sec": 1808.2075625,
+  "avg_logprob_mean": -0.20303717297117202,
+  "no_speech_prob_mean": 0.020075860915316802,
+  "beam_size": null,
+  "temperature": 0.0,
+  "best_of": null,
+  "condition_on_previous_text": true,
+  "initial_prompt": null,
+  "prefer_vad": false
+}

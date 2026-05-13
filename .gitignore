@@ -1,0 +1,35 @@
+genv/
+genv/*
+env/
+env/*
+
+# Python venv & bytecode
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.Python
+
+# Large models & caches (local / HF-style)
+.cache/
+.huggingface/
+*.gguf
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.onnx
+*.ckpt
+
+# Local runtime / data (do not commit — large binaries & DBs)
+gemma3-27b/
+Qwen3-14B-GGUF/
+chroma_data/
+chroma_snacks/
+embed_test/
+manual_output/
+pdf_uploads/
+audio_uploads/
+preprocess_output/

@@ -1,0 +1,33 @@
+{
+  "created_at": "2026-02-06T09:56:13.038663+00:00",
+  "source_summary": "/home/siwasoft/gsllm/summary_output/통화 녹음 이장호 프로님_260204_093910/통화 녹음 이장호 프로님_260204_093910_summary.json",
+  "verdict": "WARN",
+  "metrics": {
+    "summary_chars": 262,
+    "action_items_count": 3,
+    "action_item_issue_count": 0
+  },
+  "warnings": [
+    "요약이 너무 짧습니다."
+  ],
+  "errors": [],
+  "retry_suggested": true,
+  "action_item_issues": [],
+  "action_items_fixed": [
+    {
+      "who": "프로젝트 매니저",
+      "what": "프로젝트 계획 문서 작성",
+      "due": "프로젝트 시작 전"
+    },
+    {
+      "who": "기술 담당자",
+      "what": "기존 시스템 분석 및 문제점 확인",
+      "due": "프로젝트 시작 후 1주일"
+    },
+    {
+      "who": "예산 담당자",
+      "what": "예산 조정 및 확정",
+      "due": "프로젝트 시작 후 2주일"
+    }
+  ]
+}
